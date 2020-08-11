@@ -1,12 +1,8 @@
 # E47
-E47 is Open Source Computer management software made and developed by Joseph T. and RCCRAFT. The software runs on Windows, OSX, Linux and ChromeOS.
+E47 is Open Source Computer management software made and developed by Joseph T. and RCCRAFT. The software will run on Windows, OSX, Linux and ChromeOS.
+#THIS SOFTWARE IS IN DEVELOPMENT! INSTALL AND USE AT YOUR OWN RISK
 
 
-INSTALL ON LINUX:
-
-git clone (insert repo here)
-go to the directory
-type install
 
 CHROMEOS:
 
