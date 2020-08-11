@@ -1,7 +1,4 @@
-print ("Hello!")
-print ("welcome to Prodigy hack!")
-print ("I am not with prodigy in any way")
-print ("thanks for downloading!")
+
 
 kik BIP
 run kik
