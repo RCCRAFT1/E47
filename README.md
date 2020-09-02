@@ -1,5 +1,5 @@
-# E47
-E47 is Open Source Computer management software made and developed by Joseph T. and RCCRAFT. The software will run on ChromeOS.
+# GSJWJ
+GSJWJ is Open Source Computer management software made and developed by Joseph T. and RCCRAFT. The software will run on ChromeOS.
 # THIS SOFTWARE IS IN DEVELOPMENT! INSTALL AND USE AT YOUR OWN RISK
 
 
